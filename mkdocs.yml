@@ -1,5 +1,5 @@
 site_name: Bloody-test-subject
-site_url: http:/www.bloodytestsubject.com
+site_url: https://bloodytestsubject.github.io
 
 nav:
 - Intro: index.md
