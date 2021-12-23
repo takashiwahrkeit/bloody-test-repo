@@ -2,7 +2,7 @@
 site_name: Bloody-test-subject
 site_url: https://takashiwahrkeit.github.io/bloody-test-repo/
 site_author: Yevhen Maslov
-
+# theme: material
 #Repo info
 repo_name: bloody-test-repo
 repo_url: https://github.com/takashiwahrkeit/bloody-test-repo
